@@ -16,8 +16,6 @@ The programming language used was Typescript with HTML.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [TypeScript Offical Website](https://www.typescriptlang.org/)
 - [What is TypeScript and why should you use it?](https://www.contentful.com/blog/what-is-typescript-and-why-should-you-use-it/#:~:text=TypeScript%20extends%20JavaScript%20and%20improves,%2C%20tuple%2C%20generics%2C%20etc.)
 
